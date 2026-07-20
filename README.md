@@ -11,7 +11,7 @@ I protect systems, networks, and data against digital attacks, theft, and intrus
 
 <p align="left">
   <a href="https://github.com/Boni-tech8">
-    <img src="https://img.shields.io/badge/GitHub-Boni-tech8-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/gitHub-Boni-tech8-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-bonif%C3%A1cio-05864b360/">
     <img src="https://img.shields.io/badge/linkedin-Vinícius Bonifácio-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
