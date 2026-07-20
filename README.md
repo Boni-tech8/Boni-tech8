@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Vinícius Bonifácio Ferreira
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Estudante de ADS| c & http**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -31,14 +31,11 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
 -   ⚡ Performance optimization
--   🧩 Clean architecture & system design
+-   🧩 Etical hacker
 -   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🎓 Studing ADS / Cyber security
 
 ---
 
